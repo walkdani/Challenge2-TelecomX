@@ -1,3 +1,5 @@
+INFORME
+
 Resumen ejecutivo — hallazgos principales (extracto del informe)
 Balance de clases
 
