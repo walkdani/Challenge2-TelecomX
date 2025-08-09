@@ -1,5 +1,7 @@
 INFORME
 
+WALDIR RODRIGUEZ
+
 Resumen ejecutivo — hallazgos principales (extracto del informe)
 Balance de clases
 
